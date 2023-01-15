@@ -1,0 +1,8 @@
+setup.py
+clean_folder/__init__.py
+clean_folder/clean.py
+folder_sorting_biletska.egg-info/PKG-INFO
+folder_sorting_biletska.egg-info/SOURCES.txt
+folder_sorting_biletska.egg-info/dependency_links.txt
+folder_sorting_biletska.egg-info/entry_points.txt
+folder_sorting_biletska.egg-info/top_level.txt
